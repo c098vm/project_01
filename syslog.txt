@@ -1,0 +1,8 @@
+итого 24
+drwxrwxr-x 2 airat airat 4096 апр 21 20:38 data
+drwxrwxr-x 2 airat airat 4096 апр 21 20:33 errors
+-rw-rw-r-- 1 airat airat   20 апр 21 22:53 main.py
+drwxrwxr-x 2 airat airat 4096 апр 21 20:31 modules
+-rw-rw-r-- 1 airat airat   32 апр 21 20:42 README.md
+-rw-rw-r-- 1 airat airat    0 апр 21 22:45 syslog.txt
+-rw-rw-r-- 1 airat airat   11 апр 21 22:45 ZX Spectrum v 2.0 1991
